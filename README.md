@@ -16,8 +16,17 @@ Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web
 - Resolver preguntas sobre algoritmos y estructura de datos en ** Java **
 
 ## 👋 Comunícate conmigo por cualquier duda o para saludar
- <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+ <a href="www.linkedin.com/in/illgnergt">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Illgner España Cardon´s LinkedIn Profile" height="30" width="30">
+ </a>      
+ <a href="https://www.youtube.com/channel/UCT7fjLFrgdHMSaqMcp-7_Vg">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Illgner España Cardona Shinobi Web Code YouTube Channel" height="30" width="30">
+ </a>   
+ <a href="https://www.instagram.com/illgner_gt/">
+    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/instagram/instagram-icon.svg" alt="Illgner España Cardona Shinobi Web Code Instagram Channel" height="30" width="30">
+ </a>   
+ 
+## 💎 Dato curioso: pierdes automáticamente si no lo intentas.
 <!--
 **ShinobiWebCode/ShinobiWebCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
