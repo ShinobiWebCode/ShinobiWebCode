@@ -1,9 +1,7 @@
-### Hi there 👋
+<h2> Hello welcome <<i>coders</i>></h2>
 
-🙋 | :octocat:
------------- | -------------
-I am Wayne, an Engineer, a Senior Manager, an Amateur Software Developer, a Hacker, … and a curious person.  In my spare time, I enjoy reading, playing games, watching japanese animation, programming, learning japanese language and try new things. ⭐️ From [WayneChang65](https://github.com/WayneChang65)| ![github stats](https://github-readme-stats.vercel.app/api?username=WayneChang65&show_icons=true&line_height=30) <p align="center">27182818284590452353602874713526624977572470937</p>
-
+I am Illgner Spain cardona. I'm from Guatemala. I love to do web development and open to learning new technologies.
+![]https://img.shields.io/badge/Desarrollo-Web-blue  ![]https://img.shields.io/badge/Apasionado-Por%20la%20ense%C3%B1anza-red  ![]https://img.shields.io/badge/Exp-%2B4%20a%C3%B1os-blue  ![]
 <!--
 **ShinobiWebCode/ShinobiWebCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
