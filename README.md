@@ -4,8 +4,8 @@ Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web
        <br><br>![](https://img.shields.io/badge/Desarrollo-Web-blue)  ![](https://img.shields.io/badge/Apasionado-Por%20la%20ense%C3%B1anza-red)  ![](https://img.shields.io/badge/Exp-%2B4%20a%C3%B1os-blue)  ![](https://img.shields.io/badge/Games-Creator-red)
        
 ## 💻 Proyectos
-* [Creador de contenido en YouTube)](https://www.youtube.com/channel/UCT7fjLFrgdHMSaqMcp-7_Vg)
-* [Desarrollando cursos sobre programación y desarrollo web)](https://www.udemy.com/user/illgner-ramiro-espana-cardona/)
+* [Creador de contenido en YouTube](https://www.youtube.com/channel/UCT7fjLFrgdHMSaqMcp-7_Vg)
+* [Desarrollando cursos sobre programación y desarrollo web](https://www.udemy.com/user/illgner-ramiro-espana-cardona/)
 * [Portfolio diseño gráfico](https://www.behance.net/illgnergt)     
 
 ## ⚡ Tecnologías
