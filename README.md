@@ -16,7 +16,9 @@ Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web
 - Resolver preguntas sobre algoritmos y estructura de datos en ** Java **
 
 ## 👋 Comunícate conmigo por cualquier duda o para saludar
-<p align="center">
+
+ ![](https://img.shields.io/badge/Mail-illgner@gmail.com-blue)
+ <br>
  <a href="www.linkedin.com/in/illgnergt">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Illgner España Cardon´s LinkedIn Profile" height="50" width="50">
  </a> 
@@ -33,7 +35,6 @@ Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web
     <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Illgner España Cardona Shinobi Web Code Twitter Channel" height="50" width="50">
  </a>  
  
- ![](https://img.shields.io/badge/Mail-illgner@gmail.com-blue)
 </p>       
  
 ## 💎 Dato curioso: pierdes automáticamente si no lo intentas.
