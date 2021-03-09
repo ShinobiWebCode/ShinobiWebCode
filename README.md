@@ -28,6 +28,12 @@ Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web
  <a href="https://www.instagram.com/illgner_gt/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Illgner España Cardona Shinobi Web Code Instagram Channel" height="50" width="50">
  </a>   
+ 
+ <a href="https://twitter.com/illgnergt">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Illgner España Cardona Shinobi Web Code Twitter Channel" height="50" width="50">
+ </a>  
+ 
+ ![](https://img.shields.io/badge/Mail-illgner@gmail.com-blue)
 </p>       
  
 ## 💎 Dato curioso: pierdes automáticamente si no lo intentas.
