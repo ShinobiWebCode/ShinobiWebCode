@@ -18,7 +18,7 @@ Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web
 ## 👋 Comunícate conmigo por cualquier duda o para saludar
 
  ![](https://img.shields.io/badge/Mail-illgner@gmail.com-blue)
- <br>
+
  <a href="www.linkedin.com/in/illgnergt">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Illgner España Cardon´s LinkedIn Profile" height="50" width="50">
  </a> 
