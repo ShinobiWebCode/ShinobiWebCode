@@ -1,6 +1,6 @@
 <h2> Hello welcome <<i>coders</i>></h2>
 
-I am Illgner Spain cardona. I'm from Guatemala. I love to do web development and open to learning new technologies.
+Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web. Soy profesor de programación porque cada día aprendo el doble de lo que enseño. Porque es la única forma que existe de ganarlo todo sin perder nada... pero sobre todo soy profesor por vocacion no de profesión.
 <br>![](https://img.shields.io/badge/Desarrollo-Web-blue)  ![](https://img.shields.io/badge/Apasionado-Por%20la%20ense%C3%B1anza-red)  ![](https://img.shields.io/badge/Exp-%2B4%20a%C3%B1os-blue)  ![]
 <!--
 **ShinobiWebCode/ShinobiWebCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
