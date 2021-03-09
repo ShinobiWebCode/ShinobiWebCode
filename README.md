@@ -16,6 +16,7 @@ Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web
 - Resolver preguntas sobre algoritmos y estructura de datos en ** Java **
 
 ## 👋 Comunícate conmigo por cualquier duda o para saludar
+<p align="center">
  <a href="www.linkedin.com/in/illgnergt">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Illgner España Cardon´s LinkedIn Profile" height="30" width="30">
  </a>      
@@ -25,10 +26,11 @@ Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web
  <a href="https://www.instagram.com/illgner_gt/">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Illgner España Cardona Shinobi Web Code Instagram Channel" height="30" width="30">
  </a>   
+</p>       
  
 ## 💎 Dato curioso: pierdes automáticamente si no lo intentas.
 - Si lo puedes imaginar lo puedes programar
-- ¿Sabes cuál es el problema? * Imaginarte el algoritmo y no programarlo
+- ¿Sabes cuál es el problema? Imaginarte el algoritmo y no programarlo
 <!--
 **ShinobiWebCode/ShinobiWebCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
