@@ -23,10 +23,12 @@ Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Illgner España Cardona Shinobi Web Code YouTube Channel" height="30" width="30">
  </a>   
  <a href="https://www.instagram.com/illgner_gt/">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/instagram/instagram-icon.svg" alt="Illgner España Cardona Shinobi Web Code Instagram Channel" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Illgner España Cardona Shinobi Web Code Instagram Channel" height="30" width="30">
  </a>   
  
 ## 💎 Dato curioso: pierdes automáticamente si no lo intentas.
+- Si lo puedes imaginar lo puedes programar
+- ¿Sabes cuál es el problema? * Imaginarte el algoritmo y no programarlo
 <!--
 **ShinobiWebCode/ShinobiWebCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
