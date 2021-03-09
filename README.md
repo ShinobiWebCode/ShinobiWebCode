@@ -15,7 +15,9 @@ Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web
 - Desarrollo de App de Android ** Android Studio ** (aún aprendiendo)
 - Resolver preguntas sobre algoritmos y estructura de datos en ** Java **
 
-## 👋 Comunícate conmigo
+## 👋 Comunícate conmigo por cualquier duda o para saludar
+ <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
 <!--
 **ShinobiWebCode/ShinobiWebCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
