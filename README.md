@@ -18,13 +18,15 @@ Me llamo Illgner España cardona, Soy de Guatemala. Me encanta el desarrollo web
 ## 👋 Comunícate conmigo por cualquier duda o para saludar
 <p align="center">
  <a href="www.linkedin.com/in/illgnergt">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Illgner España Cardon´s LinkedIn Profile" height="30" width="30">
- </a>      
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Illgner España Cardon´s LinkedIn Profile" height="50" width="50">
+ </a> 
+       
  <a href="https://www.youtube.com/channel/UCT7fjLFrgdHMSaqMcp-7_Vg">
-    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Illgner España Cardona Shinobi Web Code YouTube Channel" height="30" width="30">
- </a>   
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Illgner España Cardona Shinobi Web Code YouTube Channel" height="50" width="50">
+ </a>  
+ 
  <a href="https://www.instagram.com/illgner_gt/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Illgner España Cardona Shinobi Web Code Instagram Channel" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Illgner España Cardona Shinobi Web Code Instagram Channel" height="50" width="50">
  </a>   
 </p>       
  
